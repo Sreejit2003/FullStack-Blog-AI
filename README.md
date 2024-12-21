@@ -16,8 +16,3 @@ Developed a Full Stack Blogging Application using Express.js with Node.js for th
 
 • Additional features include: pagination, related blogs and comments using disqus.
 
-
-
-## Video Demonstration of the Project 
-
-[![Watch the video](https://img.youtube.com/vi/bFM0SlnzI1A/0.jpg)](https://youtu.be/bFM0SlnzI1A)
